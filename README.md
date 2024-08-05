@@ -5,12 +5,14 @@
 
 
 
-
-
-## 🧑🏻‍💻 Usage
+## 🧑🏻‍💻 Usage dockerfile
 ```bash
 docker build -t image_name .
 docker run -p 8000:8000 -d image_name
+```
+## 🧑🏻‍💻 Usage Docker network
+```bash
+docker-compose up
 ```
         
 ## 🧑🏻‍💻 Docker hub
